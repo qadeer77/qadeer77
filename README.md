@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/abdulqadeer" target="blank"><img src="https://img.shields.io/twitter/follow/abdulqadeer?logo=twitter&style=for-the-badge" alt="abdulqadeer" /></a> </p>
 
-- 🌱 I’m currently learning **Web & Mobile Application Development**
+- 🌱 I’m currently working as a senior software engineer in instant solution lab
 
 - 💬 Ask me about **React, React Native, JavaScript, NodeJS, Firebase**
 
