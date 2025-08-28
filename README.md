@@ -13,6 +13,12 @@
 - 📫 How to reach me **aq579733@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Portfolio:</h3>
+<p align="left">
+<a href="https://abdul-qadeer-portfolio.netlify.app/" target="blank">
+<img align="center" src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=internet-explorer&logoColor=white" alt="portfolio" />
+</a>
+</p>
 <p align="left">
 <a href="https://twitter.com/abdulqadeer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdulqadeer" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abdul-qadeer-887332242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul qadeer" height="30" width="40" /></a>
