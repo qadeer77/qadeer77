@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abdul Qadeer</h1>
-<h3 align="center">A passionate full stack developer from pakistan</h3>
+<h1 align="center">Hi 👋, I'm qadr</h1>
+<h3 align="center">A passionate full stack developer from USA</h3>
 <img align="right" width="400px" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qadeer77&label=Profile%20views&color=0e75b6&style=flat" alt="qadeer77" /> </p>
